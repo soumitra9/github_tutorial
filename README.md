@@ -1,3 +1,3 @@
 # github_tutorial
 
-This is file the github tutorial
+This is the file for github tutorial
